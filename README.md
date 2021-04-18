@@ -42,3 +42,5 @@ Most Profitable Items
 
 
 As final considerations:
+![image](https://user-images.githubusercontent.com/80739270/115140993-f8cab880-9fee-11eb-8f7b-8b5d8c21775f.png)
+
